@@ -1,0 +1,14 @@
+int wain(int a, int b) {
+  int product = 0;
+  product = 0-1;
+  if (a >= 0) {
+    if (b >= 0) {
+      if (a < 10) {
+        if (b < 10) {
+          product = expt(a, b);
+        } else {}
+      } else {}
+    } else {}
+  } else {}
+  return product;
+}
